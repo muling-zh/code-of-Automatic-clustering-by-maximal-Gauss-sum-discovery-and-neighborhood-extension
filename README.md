@@ -1,7 +1,7 @@
 # our_algorithm
 
 ### Introduction
-This is the code for the paper "xxxxxxxxx"(journalName 2022).
+This is the code for the paper "Automatic clustering by maximal Gauss sum discovery and neighborhood extension".
 The algorithm flow and core is all in file named *cluster_runThis.py*, and you just run it!
 
 
@@ -46,8 +46,8 @@ If you find our algorithm useful in your research, please consider citing:
 
 ```
 @article{pei2022cluster,
-  title={paper name},
-  author={xxx,xxx and xx,xx },
+  title={Automatic clustering by maximal Gauss sum discovery and neighborhood extension},
+  author={Zheng Pei, Bing Luo, Miaolong Ye, Chengbao Zhou, Bo Li and Mingming Kong},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2022}
 }
