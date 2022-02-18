@@ -134,7 +134,7 @@ def main(input_x):
 
     show_nodes_for_leaders(                     # draw the distance density space and find out
         distance, density, max_density,         # the local peak point
-        norm_data, leaders_list, Order)
+        leaders_list, Order)
 
     cluster = final_clustering(distance, density, leaders_list, eps)  # final clustering results
 
